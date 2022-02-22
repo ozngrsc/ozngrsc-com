@@ -1,0 +1,76 @@
+
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative; 
+    padding-top: 100px;
+}
+
+.middle-container {
+    
+}
+
+.ozan-img {
+    margin-top: 50px;
+height: 300px;
+}
+
+.skill-img{
+    height: 300px;
+}
+
+.pencil-img{
+    height: 300px;
+}
+
+.fa-brands{
+    font-size: 30px;
+}
+
+.bottom-container {
+    margin-top: 20px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
